@@ -6,7 +6,7 @@ Trabalho de Software Básico (INF1018)
 <p align="center">
  <a href="#objetivo">Objetivo </a> |
  <a href="#dados">Dados </a> | 
- <a href="#desenvolvimento">Desenvolvimento </a> |
+ <a href="#desenvolvimento">Desenvolvimento </a> 
 </p>
 
 
