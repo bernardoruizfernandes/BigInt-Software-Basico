@@ -7,7 +7,6 @@ Trabalho de Software Básico (INF1018)
  <a href="#objetivo">Objetivo </a> |
  <a href="#dados">Dados </a> | 
  <a href="#desenvolvimento">Desenvolvimento </a> |
- <a href="#executar">Executar </a>
 </p>
 
 
@@ -33,5 +32,3 @@ O objetivo do trabalho é implementar, na linguagem C, uma biblioteca que permit
 5. Logo em seguida, foi feita a de inverter o Inteiro Grande, a ```big_comp2()```, que utiliza da função de soma para seu desenvolvimento.
 6. Com a soma e a inversão de Inteiros Grandes foi simples realizar a subtração. Já que a ```big_sub()```basta somar os numeros sendo o segundo deles invertido. 
 7. Por fim, foi deixado a função mais complicada, a de multiplicação: ```big_mul()```. Dentro da multiplicação temos chamadas para o shift logico para esquerda e soma. 
-
-### Executar
